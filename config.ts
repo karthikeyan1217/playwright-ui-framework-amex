@@ -17,11 +17,11 @@ export const userDetailPageTitleForm3 = "https://www.americanexpress.com/fr-fr/c
 
 
 
-export const errorMessage = 'American Express'
+//export const errorMessage = 'American Express'
 export const formTitleText = "Souscrivez en quelques minutes"
-export const formValidationFirstPage = "Subscribe in minutes"
-export const formValidationSecondPage = "Your personal information"
-export const formValidationThirdPage = "Your financial information"
+//export const formValidationFirstPage = "Subscribe in minutes"
+//export const formValidationSecondPage = "Your personal information"
+//export const formValidationThirdPage = "Your financial information"
 
 
 
