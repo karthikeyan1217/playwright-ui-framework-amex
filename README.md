@@ -1,18 +1,17 @@
 # playwright-ui-framework-amex
 
 # This testing framework is built using Playwright and TypeScript. It supports:
-Multi-environment configurations
-Modular Page Object Model (POM) pattern
-POM-based fixtures
-HTML reporting
-Cross-platform support for Windows, macOS, and Linux
+1.Multi-environment configurations,
+2.Modular Page Object Model (POM) pattern,
+3.POM-based fixtures,
+4.HTML reporting,
+5.Cross-platform support for Windows, macOS, and Linux
 
     Prerequisites:
     * Node.js (latest version recommended)
     * Git
     * Visual Studio Code
     * PlayWright Extension (Optional - Good to have)
-
 
 
     Step 1 : Clone the Repository :  git clone https://github.com/karthikeyan1217/playwright-ui-framework-amex.git
