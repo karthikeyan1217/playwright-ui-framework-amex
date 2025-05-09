@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "testprod": "cross-env ENV_NAME=prod npx playwright test",
-    "testprodheaded": "cross-env ENV_NAME=prod npx playwright test --headed"
+    "testprodheaded": "cross-env ENV_NAME=prod npx playwright test --headed",
+    "rerunfailedtestcases" : "cross-env ENV_NAME=prod npx playwright test --last-failed "
   },
   "keywords": [],
   "author": "",

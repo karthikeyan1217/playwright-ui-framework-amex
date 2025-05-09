@@ -15,13 +15,12 @@ export const userDetailPageTitleForm2 = "https://www.americanexpress.com/fr-fr/c
 export const userDetailPageTitleForm3 = "https://www.americanexpress.com/fr-fr/charge-cards/apply/personal/gold?intlink=fr-amex-cardshop-details-apply-GoldCardAmericanExpress-siderail"
 
 
-
-
-//export const errorMessage = 'American Express'
 export const formTitleText = "Souscrivez en quelques minutes"
 //export const formValidationFirstPage = "Subscribe in minutes"
 //export const formValidationSecondPage = "Your personal information"
 //export const formValidationThirdPage = "Your financial information"
+//export const errorMessage = 'American Express'
+
 
 
 
