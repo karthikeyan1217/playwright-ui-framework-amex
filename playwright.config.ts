@@ -41,10 +41,10 @@ export default defineConfig({
       },
     },
 
-    // Uncomment below to enable other browsers
+   // Uncomment below to enable other browsers
     // {
     //   name: 'chromium',
-    //   use: { ...devices['Desktop Chrome'] },
+    //   //use: { ...devices['Desktop Chrome'] },
     // },
     // {
     //   name: 'firefox',
